@@ -58,7 +58,7 @@ HTML = """
             </select>
 
             <input type="number" step="any" name="num2"
-                   placeholder="Second number" required>
+                   placeholder="2nd number" required>
 
             <button type="submit">Calculate</button>
         </form>
