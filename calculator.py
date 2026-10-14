@@ -48,7 +48,7 @@ HTML = """
 
         <form method="POST">
             <input type="number" step="any" name="num1"
-                   placeholder="Second number" required>
+                   placeholder="First number" required>
 
             <select name="operation">
                 <option value="add">Addition (+)</option>
@@ -58,7 +58,7 @@ HTML = """
             </select>
 
             <input type="number" step="any" name="num2"
-                   placeholder="First number" required>
+                   placeholder="Second number" required>
 
             <button type="submit">Calculate</button>
         </form>
